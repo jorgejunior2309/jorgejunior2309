@@ -1,6 +1,5 @@
 # Olá! Eu sou Jorge.😎
-📘Cursando - <br>Analise de Desenvolvimento e Sistemas<br>
-🏫Pitagoras<br>
+📘Cursando - <br> >>Analise de Desenvolvimento e Sistemas<< <br>
 <div align="center">
   <a href="https://github.com/jorgejunior2309">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgejunior2309&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
