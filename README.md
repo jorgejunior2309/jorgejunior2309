@@ -29,9 +29,9 @@ Busco uma oportunidade de **estágio em Tecnologia da Informação** para aplica
 
 Aqui estão alguns projetos que estou desenvolvendo:
 
-🔹 Calculadora em JavaScript  
-🔹 Sistema simples de cadastro com banco de dados  
-🔹 Página Web responsiva  
+🔹 Pagina web - Quiz para programadores  
+🔹 Calculadora JS  
+🔹 Bot de automação
 
 ---
 
